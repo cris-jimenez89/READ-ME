@@ -1,20 +1,20 @@
 ### Hola, soy Cristina 👋
 
-¡Saludos, viajero/a de datos! Me alegra que hayas aterrizado en mi rincón digital donde la ciencia de datos se encuentra con la diversión. 🚀
+¡Saludos, viajero/a de datos! Me alegra que hayas aterrizado en mi rincón digital donde la ciencia de datos se encuentra con la diversión🚀
 
 ## 🌟 Quién Soy
 
-- 🤓 Soy una aficionada de los datos y una exploradora apasionada que se adentra en las profundidades del universo de los datos para encontrar tesoros ocultos.
+- 🤓 Soy una aficionada de este maravilloso mundo que es el DATA SCIENCE y una exploradora apasionada que se adentra en las profundidades de su universo para encontrar tesoros ocultos.
 
 - 📊 Me considero una "navegante de datos", siempre buscando nuevas aventuras en la vasta extensión de este océano.
 
-- 🎨 La creatividad es mi brújula en este viaje de descubrimiento de datos, donde la innovación y la imaginación se unen para crear soluciones únicas.
+- 🎨 La creatividad es mi brújula en este viaje de descubrimiento, donde la innovación y la imaginación se unen para crear soluciones únicas.
 
 ## 🚀 Habilidades y Superpoderes
 
 - 🚀 **Analítica Galáctica**: Utilizo mi mente analítica para explorar datos de todas las formas y tamaños, desde pequeños datos hasta big data, en busca de revelaciones cósmicas.
 
-- 🎨 **Arte de la Visualización**: Me encanta convertir datos en visualizaciones que cuenten historias increíbles y hagan que los datos cobren vida.
+- 🎨 **Arte de la Visualización**: Me encanta convertir estadísticas en visualizaciones que cuenten historias increíbles y hagan que mis registros cobren vida.
 
 - 🤖 **Maestría en Machine Learning**: Domino el arte de enseñar a las máquinas a aprender, capacitándolas para predecir el futuro y resolver problemas complejos.
 

@@ -18,7 +18,7 @@
 
 - 🤖 **Maestría en Machine Learning**: Domino el arte de enseñar a las máquinas a aprender, capacitándolas para predecir el futuro y resolver problemas complejos.
 
-## Experiencia y Habilidades
+## 🪐Competencias adquiridas durante mi estudio
 
 - **Lenguajes de Programación**: Python, SQL
 - **Aprendizaje Automático**: TensorFlow, scikit-learn, Keras, Reinforcement Learning, 
@@ -27,28 +27,22 @@
 - **Herramientas de Big Data**: Spark, Hadoop, Docker
 - **Bases de Datos**: MySQL, PostgreSQL
 
-## Proyectos Destacados
+## 🌈Proyectos Destacados
 
-### EDA ¿QUIÉN QUIERE SER MILLONARIO?
+### 📊EDA ¿QUIÉN QUIERE SER MILLONARIO?
 
 Realizamos un análisis de los millonarios existentes y su evolución desde el año 2012 a 2023. Descargamos los datos de la revista Forbes, de Wealth Source y Epdata entre otros sobre las personas más ricas del mundo en los últimos 10 años.
 Buscamos patrones en las nacionalidades, géneros, edad, industrias... para responder a nuestras hipótesis, ¿qué tienen en común los millonarios? ¿Hay algo que pueda hacer para acercarme más a mi sueño?
-Crearemos gráficas con Plotly, Seaborn y Matplotlib para apoyar nuestros resultados
-Keywords(Python, Revista Forbes, Wealth Source, Data Cleaning, Visualización)
 
-### MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA SUPERVISADO
+### 🌊MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA SUPERVISADO
 
-Desarrollé un proyecto de machine learning, para determinar la calidad del agua y su potabilidad, con la columna target IS_SAFE, sobre si el agua se considera segura o no. El proyecto en principio se hará con aprendizaje supervisado de clasificacion, al ser nuestro target un clasificador binario (segura o no segura). Usaremos tanto modelos normales (regresion logistica, SVM..) como modelos con técnicas de más complejas de ensembles (XGBOOST, RANDOM FOREST...).
-Buscamos los parametros óptimos de nuestros mejores modelos, con gridsearch y cross value.
-Keywords(Python, kaggle, Data Cleaning, Visualización, aprendizaje supervisado)
+Desarrollé un proyecto de machine learning, para determinar la calidad del agua y su potabilidad, con la columna target IS_SAFE, sobre si el agua se considera segura o no. Usé tanto modelos normales (regresion logistica, SVM..) como modelos con técnicas de más complejas de ensembles (XGBOOST, RANDOM FOREST...).
 
-### MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA NO SUPERVISADO
+### 🌊MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA NO SUPERVISADO
 
-Damos una vuelta al modelo supervisado desarrollado en PROYECTO 2, MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA SUPERVISADO, que finalmente solo determinaria si esta contaminada o no segun sus componentes Y USAMOS APRENDIZAJE NO SUPERVISADO, PARA IDENTIFICAR PATRONES OCULTOS E INFORMACION NUEVA, ASI COMO POSIBLES RELACIONES ENTRE FEATURES QUE NO SE HABIAN CONSIDERADO CON ANTERIORIDAD y poder tomar posibles decisiones de cara a un futuro.
-Nos servimos de dos datasets, el de la calidad del agua usado en el Proyecto 2, con columnas de las concentraciones de distintas sustancias que pueden ser contaminantes y otro sobre su potabilidad, con features que representan distintas carácterísticas del agua como el pH, la dureza, la turbicidad...
-Keywords(Python, kaggle, Data Cleaning, Visualización, aprendizaje no supervisado,Kmeans)
+Di una vuelta al modelo supervisado desarrollado en PROYECTO 2, MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA SUPERVISADO, y USE APRENDIZAJE NO SUPERVISADO PARA IDENTIFICAR PATRONES OCULTOS E INFORMACION NUEVA, ASI COMO POSIBLES RELACIONES ENTRE FEATURES QUE NO SE HABIAN CONSIDERADO CON ANTERIORIDAD y poder tomar posibles decisiones de cara a un futuro.
 
-## Contacto
+## 🎉Contacto
 
 ¡Gracias por visitar mi espacio de datos! Si estás interesado/a en colaborar en proyectos mágicos de ciencia de datos o simplemente quieres charlar sobre el universo de los datos, no dudes en ponerte en contacto conmigo a través de [LinkedIn](https://www.linkedin.com/in/cristina-jim%C3%A9nez-parrado/) o por correo electrónico en cjimpar@gmail.com.
 

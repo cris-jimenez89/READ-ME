@@ -2,7 +2,7 @@
 
 ¡Saludos, viajero/a de datos! Me alegra que hayas aterrizado en mi rincón digital donde la ciencia de datos se encuentra con la diversión
 
-## Quién soy
+## ¿Quién soy?
 
 - Soy una aficionada de este maravilloso mundo que es el DATA SCIENCE y una exploradora apasionada que se adentra en las profundidades de su universo para encontrar tesoros ocultos.
 

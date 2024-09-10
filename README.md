@@ -42,6 +42,15 @@ Desarrollé un proyecto de machine learning, para determinar la calidad del agua
 
 Di una vuelta al modelo supervisado desarrollado en PROYECTO 2, MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA SUPERVISADO, y USE APRENDIZAJE NO SUPERVISADO PARA IDENTIFICAR PATRONES OCULTOS E INFORMACION NUEVA, ASI COMO POSIBLES RELACIONES ENTRE FEATURES QUE NO SE HABIAN CONSIDERADO CON ANTERIORIDAD y poder tomar posibles decisiones de cara a un futuro.
 
+## “NOWCASTING”: haciendo predicciones sobre el tiempo presente
+
+Junto con 3 compañeros, y junto con la empresa RANDBEE CONSULTANTS generamos un modelo de “nowcasting” basado en una técnica de ML para predecir a tiempo real una de las variables socio-económicas (integración de los inmigrantes en el mercado laboral) a partir de “big data” obtenidos de “Google Trends” y de “GDELT” (‘Global Database on Events Location and Tone’).
+1.  Creamos una API con FAST API para extraer los datos de nuestra variable RESPUESTA, cuantificada a partir de datos proporcionados por Eurostat. En concreto, la serie temporal del indicador: Population by sex, age, citizenship and labour status (1 000) -lfsa_pganws, medido como tasa de actividad por sexo; edad y país de nacimiento, que presenta una frecuencia anual. Estos datos están disponibles desde el año 1995.
+2.	Implementamos una API que permitía extraer información sobre vólumenes de consultas de “Google search data” agregadas bajo la forma de “Google Trends” para un conjunto predefinido de “temas” y “categorías” en distintos periodos de tiempo y a determinadas frecuencias temporales.
+3.	Implementamos una API para extraer información sobre “sentiment indicators” a partir de la base de datos GDELT, en forma de “Article tone” y “Topic popularity rate”.
+4.	Construimos (y validamos) un modelo de “nowcasting” usando técnicas de ML (Random Forest, XGBOOST y LSTM neural network) para la variable socioeconómica señalada utilizando los datos the Google Trends y de GDELT previamente extraídos como predictores.
+5.	Habilitamos una API con 4 llamadas (3 LLAMADAS GET Y UNA LLAMADA POST), una que haga llamada desde el histórico y separe en train y test; la siguiente que entrene el modelo, lo guarde en tu ordenador y te muestre su ruta; una tercera que nos extraiga las métricas tras cargar el modelo ya entrenado, obteniendo los datos de test y devuelviendo el clasification report; y una última llamada POST con un PREDICT que carga el modelo y llama a la función predict del modelo pasándole los datos que le has pasado a la llamada. 
+   
 ## 🎉Contacto
 
 ¡Gracias por visitar mi espacio de datos! Si estás interesado/a en colaborar en proyectos mágicos de ciencia de datos o simplemente quieres charlar sobre el universo de los datos, no dudes en ponerte en contacto conmigo a través de [LinkedIn](https://www.linkedin.com/in/cristina-jim%C3%A9nez-parrado/) o por correo electrónico en cjimpar@gmail.com.

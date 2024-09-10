@@ -42,7 +42,7 @@ Desarrollé un proyecto de machine learning, para determinar la calidad del agua
 
 Di una vuelta al modelo supervisado desarrollado en PROYECTO 2, MACHINE LEARNING SOBRE LA CALIDAD DEL AGUA SUPERVISADO, y USE APRENDIZAJE NO SUPERVISADO PARA IDENTIFICAR PATRONES OCULTOS E INFORMACION NUEVA, ASI COMO POSIBLES RELACIONES ENTRE FEATURES QUE NO SE HABIAN CONSIDERADO CON ANTERIORIDAD y poder tomar posibles decisiones de cara a un futuro.
 
-## “NOWCASTING”: HACIENDO PREDICCIONES SOBRE EL TIEMPO PRESENTE
+### “NOWCASTING”: HACIENDO PREDICCIONES SOBRE EL TIEMPO PRESENTE
 
 Junto con 3 compañeros, y junto con la empresa RANDBEE CONSULTANTS generamos un modelo de “nowcasting” basado en una técnica de ML para predecir a tiempo real una de las variables socio-económicas (integración de los inmigrantes en el mercado laboral) a partir de “big data” obtenidos de “Google Trends” y de “GDELT” (‘Global Database on Events Location and Tone’).
 1.  Creamos una API con FAST API para extraer los datos de nuestra variable RESPUESTA, cuantificada a partir de datos proporcionados por Eurostat. En concreto, la serie temporal del indicador: Population by sex, age, citizenship and labour status (1 000) -lfsa_pganws, medido como tasa de actividad por sexo; edad y país de nacimiento, que presenta una frecuencia anual. Estos datos están disponibles desde el año 1995.
